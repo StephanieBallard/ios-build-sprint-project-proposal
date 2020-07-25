@@ -6,18 +6,17 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>` Stephanie and Benji
-2. App Name: `<What's the app name?>` 
+1. Team Members: Stephanie
+2. App Name: Swifty Sudoku
 3. App Description (3-5 sentences):
 
-    `<Explain your app to your Grandma (or a 5-year old child)>`
-    This app will make it so you can enter the medicine you take and the app will help you keep track of which medicines you have taken and still need to for that day.
+This app will be a sudoku game board implementing av foundation to play sounds when the cells are tapped etc.
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
- `<Be specific and focus on a real person>` Our app will be for someone who takes a lot of medications and needs help keeping track of them or for someone like me who always forgets to take my vitamins and the one pill that I take daily.
+ This app is for anyone who enjoys critical thinking puzzles.
     
-5. Github code repository: `<Create a Github Project>`
+5. Github code repository: https://github.com/StephanieBallard/Sudoku-Unit-4-Build
 6. Github Project/Trello Board: `<Post your link to your Kanban board>`
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
 
